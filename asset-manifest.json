@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/hr-management-dashboard-frontend/static/css/main.c92059f2.chunk.css",
+    "main.js": "/hr-management-dashboard-frontend/static/js/main.7112bae2.chunk.js",
+    "main.js.map": "/hr-management-dashboard-frontend/static/js/main.7112bae2.chunk.js.map",
+    "runtime~main.js": "/hr-management-dashboard-frontend/static/js/runtime~main.b2c36e89.js",
+    "runtime~main.js.map": "/hr-management-dashboard-frontend/static/js/runtime~main.b2c36e89.js.map",
+    "static/css/2.b71989ea.chunk.css": "/hr-management-dashboard-frontend/static/css/2.b71989ea.chunk.css",
+    "static/js/2.7332dfd0.chunk.js": "/hr-management-dashboard-frontend/static/js/2.7332dfd0.chunk.js",
+    "static/js/2.7332dfd0.chunk.js.map": "/hr-management-dashboard-frontend/static/js/2.7332dfd0.chunk.js.map",
+    "static/js/3.cf2aeaea.chunk.js": "/hr-management-dashboard-frontend/static/js/3.cf2aeaea.chunk.js",
+    "static/js/3.cf2aeaea.chunk.js.map": "/hr-management-dashboard-frontend/static/js/3.cf2aeaea.chunk.js.map",
+    "index.html": "/hr-management-dashboard-frontend/index.html",
+    "precache-manifest.9548e87fed943ed19f80db0c81315340.js": "/hr-management-dashboard-frontend/precache-manifest.9548e87fed943ed19f80db0c81315340.js",
+    "service-worker.js": "/hr-management-dashboard-frontend/service-worker.js",
+    "static/css/2.b71989ea.chunk.css.map": "/hr-management-dashboard-frontend/static/css/2.b71989ea.chunk.css.map",
+    "static/css/main.c92059f2.chunk.css.map": "/hr-management-dashboard-frontend/static/css/main.c92059f2.chunk.css.map"
+  }
+}
