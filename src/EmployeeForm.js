@@ -7,7 +7,18 @@ const EmployeeForm = ({ employee, onSubmit }) => {
     <Formik
       initialValues={employee || { name: '', position: '', department: '', email: '', phone: '' }}
       onSubmit={async (values) => {
-        await onSubmit(values);
+        try {
+          // Make an API request to submit the form data
+          const response = await axios.post('/api/employees', values);
+          console.log('Employee data submitted:', response.data);
+          
+          // Optionally, call the passed onSubmit function if needed
+          if (onSubmit) {
+            await onSubmit(values);
+          }
+        } catch (error) {
+          console.error('Error submitting employee data:', error);
+        }
       }}
     >
       <Form>
